@@ -1,0 +1,5 @@
+#!/home/olesia/PycharmProjects/speech/venv/bin/python
+
+from deepspeech_server.server import main;
+
+main()
